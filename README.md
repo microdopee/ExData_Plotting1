@@ -1,3 +1,5 @@
+NOTE: I EDITED THE TXT FILE (TO 1/2/2007-2/2/2007) INSTEAD OF SUBSETTING LATER BY DATES
+
 ## Introduction
 
 This assignment uses data from
